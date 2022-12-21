@@ -1,0 +1,31 @@
+.input_contacto {
+    margin: 10px;
+}
+
+#h1_contacto {
+    color: white;
+}
+
+.contacto_Bloq_1 {
+    padding-right: 0rem;
+    padding: 2rem;
+}
+
+input:hover, textarea:hover {
+    background-color: lightgrey;
+    
+}
+
+.button_enviar_contacto{
+    background-color:white;
+    margin-top:20px;
+}
+.button_enviar_contacto:hover {
+    background-color: rgb(8,32,50);
+    color: white;
+    border-color: white;
+}
+
+.button_enviar_contacto:focus{
+
+}
