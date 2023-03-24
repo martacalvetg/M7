@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    },
+    "b236d81c-9d6a-4692-bb09-32df6ac9ddc1": {
+      "ProjectGuid": "b236d81c-9d6a-4692-bb09-32df6ac9ddc1",
+      "DisplayName": "Pmemory",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
